@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Benchmark](https://img.shields.io/badge/LSTM%20RMSE-0.038-brightgreen.svg)]()
 [![Directional Hit Rate](https://img.shields.io/badge/Hit%20Rate-68.4%25-cyan.svg)]()
-[![Web Dashboard](https://img.shields.io/badge/Dashboard-Live%20Demo-purple.svg)](https://kaleabmezgebe.github.io/stock-trend-lstm/)
+[![Web Dashboard](https://img.shields.io/badge/Dashboard-Live%20Demo-purple.svg)](https://kaleab-mezgebe.github.io/stock-trend-lstm/)
 
 > **End-to-End Recurrent Time-Series Pipeline for Financial Trajectory Modeling and Multi-Horizon Predictive Uncertainty Quantification.**
 > 
@@ -89,7 +89,7 @@ graph TD
 The pipeline is designed with **zero required external dependencies** for maximum portability:
 ```bash
 # Clone the repository
-git clone https://github.com/kaleabmezgebe/stock-trend-lstm.git
+git clone https://github.com/kaleab-mezgebe/stock-trend-lstm.git
 cd stock-trend-lstm
 ```
 
@@ -179,6 +179,6 @@ stock-trend-lstm/
   title = {AI-Based Stock Market Prediction & Predictive Sequence Analytics},
   year = {2025},
   publisher = {GitHub},
-  url = {https://github.com/kaleabmezgebe/stock-trend-lstm}
+  url = {https://github.com/kaleab-mezgebe/stock-trend-lstm}
 }
 ```
